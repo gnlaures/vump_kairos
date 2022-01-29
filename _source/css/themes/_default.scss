@@ -1,0 +1,49 @@
+// Layout Colors
+$primaryLight: #bcad9f;
+$primary: #b49d8d;
+$primaryDark: #8b7c6d;
+
+$secondaryLight: #282522;
+$secondary: #282522;
+$secondaryDark: #282522;
+
+$white: #fff;
+$white2: #fafafa;
+$white3: #f3f3f3;
+
+$mutedGray: #eeeeee;
+$lightGray: #e7e7e7;
+$mediumGray: #c5c5c5;
+$darkGray: #4c4c4c;
+$baseGray: #898989;
+
+$defaultRadius: 5px;
+$defaultPadding: 5vw;
+
+$feedbackSuccess: #1ca33d;
+$feedbackLoad: #eee;
+$feedbackError: #f05555;
+
+$whatsappPrimary: #25d366;
+$whatsappSecondary: #1eb456;
+
+// Sizes
+$containerWidth: 1200px;
+$containerBigWidth: 1440px;
+$maxRowWidth: 2560px;
+
+// media folders
+$media_assets : "../../media/img/assets/";
+$media_icons : "../../media/img/icons/";
+$media_content : "../../media/img/content/";
+//example: background: url(#{$media_assets}image.png);
+
+// text
+$text: #666;
+$placeholderText: lighten($text, 15%);
+$fontFamily__default: 'Quicksand', 'Roboto', 'Calibri', sans-serif;
+$fontFamily__serif: 'Neuton', serif;
+$fwLight: 300; 
+$fwRegular: 400;
+$fwMedium: 500;
+$fwBold: 700;
